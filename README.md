@@ -1,4 +1,4 @@
-### Hi there 👋
+### 프론트엔트 공부중 👋 
 
 <!--
 **yewonJin/yewonJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
