@@ -1,6 +1,6 @@
 ### 프론트엔트 공부중 👋 
 
-### 🗂 Stacks 
+### 🗂 Stack
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/>
 
 
